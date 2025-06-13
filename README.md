@@ -254,7 +254,7 @@ sudo ./easynode_total_obfuscation.sh
 
 ## <div align="center">⚡ Features</div>
 
-## 📋 Essential Features / Fonctionnalités Essentielles
+## 📋 Essential Features 
 
 | **Feature / Fonctionnalité** | **Do** | **Details / Détails** |
 |-------------------------------|------------------|------------------------|
