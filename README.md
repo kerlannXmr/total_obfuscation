@@ -54,6 +54,8 @@ Added the 'MRL' IP ban list of 'boog900'.
 
 🎯 **Dual Access System**: ZeroTier for daily use (20x faster) + Tor for anonymous backup = Best of both worlds!
 
+-➡📗  Remote access wallet - Choose your method:
+
 -**Via ZeroTier (Fast)**: Use ZeroTier IP:18081 in Monero GUI/Cake Wallet
 
 -**Via Tor (Anonymous)**: Use .onion address:18081 (found in /home/$user/)
@@ -212,6 +214,19 @@ sudo ./easynode_total_obfuscation.sh
 └─────────────────────────────────────────────────────────────┘
 ```
 
+### 🌐 ZeroTier Quick Setup:
+-➡🔐 **Step 1**: Run option 10 → 2 in EasyNode
+-➡🔐 **Step 2**: Create account at my.zerotier.com
+-➡🔐 **Step 3**: Enter network ID when prompted
+-➡🔐 **Step 4**: Authorize node in web panel
+-➡🔐 **Step 5**: Connect wallet with ZeroTier IP:18081
+
+### 🎭 Obfuscation Notes:
+-➡🔒 **Automatic**: Starts after blockchain sync
+-➡🔒 **Performance**: ~5-10% CPU overhead
+-➡🔒 **Verification**: Check with menu 11 → 4
+
+
 ## 🔐 ZeroTier vs Tor Comparison
 
 | Feature | Tor Only | ZeroTier + Tor | Advantage |
@@ -269,23 +284,6 @@ sudo ./easynode_total_obfuscation.sh
 
 Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.com/kerlannXmr/EasyMonerod/issues/9)    
 
-### 🌐 ZeroTier Quick Setup:
--➡🔐 **Step 1**: Run option 10 → 2 in EasyNode
--➡🔐 **Step 2**: Create account at my.zerotier.com
--➡🔐 **Step 3**: Enter network ID when prompted
--➡🔐 **Step 4**: Authorize node in web panel
--➡🔐 **Step 5**: Connect wallet with ZeroTier IP:18081
-
-### 🎭 Obfuscation Notes:
--➡🔒 **Automatic**: Starts after blockchain sync
--➡🔒 **Performance**: ~5-10% CPU overhead
--➡🔒 **Verification**: Check with menu 11 → 4
-
--➡📗  Remote access wallet - Choose your method:
-  
-  
-  
- 
   
 -➡📗  Remote access ssh, port 22:
    
@@ -313,7 +311,7 @@ Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.c
 | 💚  **DESIGNED FOR** | 🖥️ **Dedicated PC for Monero Node Only with Monero_Gui** |
 |:---:|:---|
 | ⚠️ **WARNING** | 🚫 **Don't use on primary computers first** |
-| 🎭 **OBFUSCATION** | 🔬 **Production-ready with ZeroTier support** |
+
 
 ---
 
@@ -328,8 +326,7 @@ Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.c
 
 ## 🫶 Thankful
 
-- 🧭 Thanks [👉Monero eco-system](https://monero.eco)*(right click + "Open in new tab")*
-- 🛡️ Thanks [👉Boog900](https://github.com/Boog900)*(right click + "Open in new tab")* for the ban list
+- 🇫🇷 Thanks [👉unbanked0](https://github.com/Unbanked0)*(right click + "Open in new tab")*
 
 <div align="center">
 
