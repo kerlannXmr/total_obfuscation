@@ -213,6 +213,7 @@ sudo ./easynode_total_obfuscation.sh
 │           • Secure RPC (optional)                           │
 └─────────────────────────────────────────────────────────────┘
 ```
+<img src="https://github.com/kerlannXmr/total_obfuscation/blob/main/picture/total.png" >
 
 ### 🌐 ZeroTier Quick Setup:
 -➡🔐 **Step 1**: Run option 10 → 2 in EasyNode
