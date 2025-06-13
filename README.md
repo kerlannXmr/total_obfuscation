@@ -213,7 +213,7 @@ sudo ./easynode_total_obfuscation.sh
 │           • Secure RPC (optional)                           │
 └─────────────────────────────────────────────────────────────┘
 ```
-<img src="https://github.com/kerlannXmr/total_obfuscation/blob/main/picture/total.png" >
+<img src="https://github.com/kerlannXmr/total_obfuscation/blob/main/picture/combin%C3%A9.png" >
 
 ### 🌐 ZeroTier Quick Setup:
 -➡🔐 **Step 1**: Run option 10 → 2 in EasyNode
@@ -304,6 +304,23 @@ Because FAT doesn't handle files larger than 4 GB!  [👉Issue](https://github.c
 | Others | ✅ | Standard commands |
 
 </div>
+
+<div align="center">
+
+### Security Scan Results
+  
+ <b>Right click + "Open in new tab" to view scann results </b>
+
+| Script | Jotti.org | MetaDefender | virscan |
+|--------|------------|--------------|--------------|
+| EasyNode_linux | [![Scan EasyNode_linux with JOTTI.ORG](https://img.shields.io/badge/scan%20Easynode_linux%20with-Jotti.org-brightgreen)](https://virusscan.jotti.org/en-US/filescanjob/932dltnpnl) | [![Scan EasyNode_linux with MetaDefender](https://img.shields.io/badge/scan%20Easynode_linux%20with-MetaDefender-brightgreen)](https://metadefender.com/results/url/aHR0cHM6Ly9naXRodWIuY29tL2tlcmxhbm5YbXIvdG90YWxfb2JmdXNjYXRpb24vcmVsZWFzZXMvZG93bmxvYWQvdjEvZWFzeW5vZGVfdG90YWxfb2JmdXNjYXRpb24uc2g=) | [![Scan EasyNode_linux with VirScan](https://img.shields.io/badge/scan%20Easynode_linux%20with-VirScan-brightgreen)](https://www.virscan.org/report/7f8e17619e78a7d18de9b6105005077fad55d96b1cd090f9d84a770dc8400dc4)
+
+
+</div>
+
+<br>
+
+
 
 ## <div align="center">☣️ Security & Support</div>
 
