@@ -15,7 +15,7 @@
 <br>
 <br>
 
-[▶️ Demo video](https://mega.nz/file/9nEHgSbI#QIewZrOS8ETOtRYub1qrDymJbVusxm5RCYiIrfnv-Ks) *("Open in new tab")*
+[▶️ Demo video](https://mega.nz/file/IitShIwD#k1HFgFY9ePSdVinkTLybPnKlMHPVTnomt7IlELSu-OM) *("Open in new tab")*
 
 </div>
 
@@ -82,7 +82,7 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and ma
 <br>
 <br>
 
-[![EasyNode Monero](https://github.com/kerlannXmr/EasyMonerod/raw/main/picture/play-button.svg)](https://mega.nz/file/9nEHgSbI#QIewZrOS8ETOtRYub1qrDymJbVusxm5RCYiIrfnv-Ks) 
+[![EasyNode Monero](https://github.com/kerlannXmr/EasyMonerod/raw/main/picture/play-button.svg)](https://mega.nz/file/IitShIwD#k1HFgFY9ePSdVinkTLybPnKlMHPVTnomt7IlELSu-OM) 
 
 <a>right click + "Open in new tab"</a>
 
