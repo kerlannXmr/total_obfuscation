@@ -26,7 +26,9 @@
 
 </div>
 
-**EasyNode TOTAL OBFUSCATION** simplifies the installation of a **'MONERO node'** with  **traffic obfuscation** and **ZeroTier VPN** capabilities, allowing you to configure your blockchain in just a few clicks. (inclued 0.18.4.2 Monero CLI and officiel Hash verification)
+**EasyNode TOTAL OBFUSCATION** simplifies the installation of a **'MONERO node'** with  **traffic obfuscation** and **ZeroTier VPN** capabilities, allowing you to configure your blockchain in just a few clicks. 
+
+**-Inclued 0.18.4.3 Monero CLI and officiel Hash verification**
 
  A complete setup in less than 10 minutes!
 
