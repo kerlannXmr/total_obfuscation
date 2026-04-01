@@ -141,7 +141,7 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and ma
 
 | Version | Links |
 |---------|------|
-| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_Total_Obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/total_obfuscation/releases/download/v1/easynode_total_obfuscation.sh) |
+| 🐧 Linux | [![Linux](https://img.shields.io/badge/Download-EasyNode_Total_Obfuscation-orange?style=for-the-badge)](https://github.com/kerlannXmr/total_obfuscation/releases/download/v2/easynode_total_obfuscation.sh) |
 
 </div>
 
@@ -161,13 +161,13 @@ This script is designed **for dedicated Monero node PCs** with Monero_Gui and ma
 - ⚡Beginner users: copy&paste in new terminal
 
 ```bash
-wget https://github.com/kerlannXmr/total_obfuscation/releases/download/v1/easynode_total_obfuscation.sh -O easynode_total_obfuscation.sh && chmod +x easynode_total_obfuscation.sh && sudo ./easynode_total_obfuscation.sh
+wget https://github.com/kerlannXmr/total_obfuscation/releases/download/v2/easynode_total_obfuscation.sh -O easynode_total_obfuscation.sh && chmod +x easynode_total_obfuscation.sh && sudo ./easynode_total_obfuscation.sh
 ```
 
 - Normal users: copy&paste in new terminal
 
 ```bash
-sudo wget -P ~ https://github.com/kerlannXmr/total_obfuscation/releases/download/v1/easynode_total_obfuscation.sh
+sudo wget -P ~ https://github.com/kerlannXmr/total_obfuscation/releases/download/v2/easynode_total_obfuscation.sh
 ```
 (script goes in folder) " /home/$user "
 
